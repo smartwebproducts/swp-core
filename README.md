@@ -1,2 +1,1 @@
-# swp-core
-Smart Web Products Library : Core Classes
+# Smart Web Products Library : Core Classes
